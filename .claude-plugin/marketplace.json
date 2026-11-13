@@ -1,0 +1,17 @@
+{
+  "name": "personaxpand",
+  "description": "Social media skills for Claude: replies in your voice, inbox triage, auto-reply rules, posting, planning and reports.",
+  "owner": {
+    "name": "Mohammad Hayat",
+    "url": "https://github.com/hayat-nextoriainfotech"
+  },
+  "plugins": [
+    {
+      "name": "social-media-skills",
+      "source": "./",
+      "description": "Answer comments and DMs in your own voice, sort your inbox, design safe auto-reply rules, and write, plan and report on posts.",
+      "category": "productivity",
+      "tags": ["social-media", "comment-replies", "inbox", "content-planning", "analytics"]
+    }
+  ]
+}
