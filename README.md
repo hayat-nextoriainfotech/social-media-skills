@@ -21,17 +21,17 @@ Inside a Claude Code session:
 
 ```
 /plugin marketplace add hayat-nextoriainfotech/social-media-skills
-/plugin install social-media-skills@personaxpand
+/plugin install personaxpand-social-media-skills@personaxpand
 ```
 
 Or from your shell:
 
 ```
 claude plugin marketplace add hayat-nextoriainfotech/social-media-skills
-claude plugin install social-media-skills@personaxpand
+claude plugin install personaxpand-social-media-skills@personaxpand
 ```
 
-Skills then run on their own when your request fits, or by name, for example `/social-media-skills:reply-in-my-voice`.
+Skills then run on their own when your request fits, or by name, for example `/personaxpand-social-media-skills:reply-in-my-voice`.
 
 The plugin also includes the PersonaXpand connector (a remote MCP server at `https://personaxpand.com/mcp`). It is optional. To use it, run `/mcp`, choose `personaxpand` and sign in once in your browser. If you only want the skills, skip the sign-in; the skills work on pasted text. You can turn the server off in `/mcp` at any time.
 
@@ -89,7 +89,7 @@ The skills are instructions for Claude. They contain no code that sends data any
 
 ## Troubleshooting
 
-- **A skill doesn't trigger.** Name it, for example `/social-media-skills:inbox-triage`, or say what you want in plain words ("sort these messages").
+- **A skill doesn't trigger.** Name it, for example `/personaxpand-social-media-skills:inbox-triage`, or say what you want in plain words ("sort these messages").
 - **Skills don't appear on claude.ai.** Turn on code execution (see Install) and check the ZIP has the skill folder with `SKILL.md` inside.
 - **The connector asks to sign in, or tools are missing.** In Claude Code run `/mcp` and sign in to `personaxpand`. On claude.ai check Settings, Connectors.
 - **"Nothing was sent."** That is by design until you say yes to the exact text.

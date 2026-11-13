@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "social-media-skills",
+      "name": "personaxpand-social-media-skills",
       "source": "./",
       "description": "Answer comments and DMs in your own voice, sort your inbox, design safe auto-reply rules, and write, plan and report on posts.",
       "category": "productivity",
