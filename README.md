@@ -104,10 +104,10 @@ Issues and pull requests are welcome: better examples, more languages, correctio
 Before you open a pull request, run:
 
 ```
-python .github/scripts/check.py
+claude plugin validate --strict .
 ```
 
-It fails on long dashes, network counts, unsupported product claims, prices, emails and secrets. CI runs the same check plus `claude plugin validate --strict`.
+CI runs the same check.
 
 If these skills help you, a star helps other people find them. It's the only thing we ask.
 
