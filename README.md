@@ -4,7 +4,7 @@
 
 Paste your comments, get replies that sound like you. Nothing is sent until you say yes. Every skill works with no account. If you connect PersonaXpand, Claude can also read your real inbox and post for you, still only after your yes.
 
-Built by Mohammad Hayat, Sr. AI Engineer at PersonaXpand.
+Built by Mohammad Hayat, Sr. AI Engineer at Nextoria Information Technology, the company behind PersonaXpand.
 
 ## Ask Claude things like
 
@@ -34,6 +34,8 @@ claude plugin install personaxpand-social-media-skills@personaxpand
 Skills then run on their own when your request fits, or by name, for example `/personaxpand-social-media-skills:reply-in-my-voice`.
 
 The plugin also includes the PersonaXpand connector (a remote MCP server at `https://personaxpand.com/mcp`). It is optional. To use it, run `/mcp`, choose `personaxpand` and sign in once in your browser. If you only want the skills, skip the sign-in; the skills work on pasted text. You can turn the server off in `/mcp` at any time.
+
+Already use PersonaXpand on claude.ai? After you install the plugin, Claude Code uses the plugin's copy of the connector and hides the claude.ai one, so `/mcp` shows `personaxpand` as needing authentication. Sign in there once and your tools are back. (Checked with Claude Code 2.1.301.)
 
 ### claude.ai and Claude Desktop
 
