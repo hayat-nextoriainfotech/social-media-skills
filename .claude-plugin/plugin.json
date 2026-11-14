@@ -1,7 +1,7 @@
 {
   "name": "personaxpand-social-media-skills",
   "displayName": "PersonaXpand Social Media Skills",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Answer comments and DMs in your own voice, sort your inbox, design safe auto-reply rules, and write, plan and report on posts. Works on pasted text with no account; connect PersonaXpand to let Claude read your inbox and post after your yes.",
   "author": {
     "name": "Mohammad Hayat",
