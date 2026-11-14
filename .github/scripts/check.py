@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Repository checks: copy rules, skill frontmatter, links and secrets.
 
-Run from anywhere: python scripts/check.py
+Run from the repo root: python .github/scripts/check.py
 Exits 1 and prints every problem found. Standard library only.
 
 Patterns that would match their own source text are built from pieces,
@@ -14,7 +14,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 SKIP_DIRS = {".git", "node_modules", "__pycache__", ".venv"}
 TEXT_EXT = {".md", ".json", ".yml", ".yaml", ".py", ".sh", ".txt", ""}
 

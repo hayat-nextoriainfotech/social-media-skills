@@ -104,7 +104,7 @@ Issues and pull requests are welcome: better examples, more languages, correctio
 Before you open a pull request, run:
 
 ```
-python scripts/check.py
+python .github/scripts/check.py
 ```
 
 It fails on long dashes, network counts, unsupported product claims, prices, emails and secrets. CI runs the same check plus `claude plugin validate --strict`.

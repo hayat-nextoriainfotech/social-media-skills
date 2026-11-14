@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Copy rules, frontmatter, links and secrets
-        run: python scripts/check.py
+        run: python .github/scripts/check.py
 
   plugin-validate:
     runs-on: ubuntu-latest

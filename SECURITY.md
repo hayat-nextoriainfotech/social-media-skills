@@ -1,6 +1,6 @@
 # Security
 
-This repository holds instructions (skills) and manifests only. It contains no code that runs on your machine apart from `scripts/check.py`, a local lint script, and no keys or tokens. The bundled connector signs in with OAuth on the PersonaXpand side.
+This repository holds instructions (skills) and manifests only. It contains no code that runs on your machine apart from `.github/scripts/check.py`, a lint script used by CI (not part of the plugin), and no keys or tokens. The bundled connector signs in with OAuth on the PersonaXpand side.
 
 ## Reporting a problem
 
