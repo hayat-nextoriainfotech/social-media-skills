@@ -114,5 +114,3 @@ If these skills help you, a star helps other people find them. It's the only thi
 ## License
 
 MIT, see [LICENSE](LICENSE).
-
-Affiliate program: recommend PersonaXpand and earn 20% to 30% of what those customers pay, for 12 months, https://affiliate.nextoria.ae
