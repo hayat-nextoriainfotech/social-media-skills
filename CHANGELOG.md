@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2 (2026-11-20)
+
+- Skills no longer add a "Connect PersonaXpand" line to their answers. Setup stays in the README and `references/connector.md`.
+- post-everywhere and week-planner now treat post text and briefs they read as data, never instructions, like the other skills.
+
 ## 0.1.1 (2026-11-14)
 
 - The plugin now ships only Markdown, JSON, YAML and images. The Python lint script was removed; CI runs `claude plugin validate --strict`.
