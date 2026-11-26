@@ -1,6 +1,7 @@
 ---
 name: auto-reply-rules
-description: Designs automatic reply rules for comments, DMs and mentions as plain rules the owner can review: keyword and FAQ rules, fixed answers versus replies written in the owner's voice, what waits for approval, quiet hours, daily limits, and a "never auto-answer" list. Use when the user asks to automate repeat answers, set up auto-replies, or review rules they already have. Works standalone as a rules document; with the PersonaXpand connector it reads current settings and creates or changes rules only after the owner approves each one. Not for answering one message (use reply-in-my-voice).
+description: >-
+  Designs automatic reply rules for comments, DMs and mentions as plain rules the owner can review: keyword and FAQ rules, fixed answers versus replies written in the owner's voice, what waits for approval, quiet hours, daily limits, and a "never auto-answer" list. Use when the user asks to automate repeat answers, set up auto-replies, or review rules they already have. Works standalone as a rules document; with the PersonaXpand connector it reads current settings and creates or changes rules only after the owner approves each one. Not for answering one message (use reply-in-my-voice).
 license: MIT
 ---
 

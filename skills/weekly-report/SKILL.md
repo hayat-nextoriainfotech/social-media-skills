@@ -1,6 +1,7 @@
 ---
 name: weekly-report
-description: Explains in plain words what worked on social media last week and what to change next week, from the user's own numbers: followers, reach, engagement, best and weakest posts, and how fast messages were answered. Use when the user pastes analytics, uploads a CSV export, or asks "how did my posts do?" or "what worked last week?". With the PersonaXpand connector it pulls fresh numbers itself. Uses only numbers the user or the networks provided, never estimates or industry averages. Not for planning the next week in detail (use week-planner).
+description: >-
+  Explains in plain words what worked on social media last week and what to change next week, from the user's own numbers: followers, reach, engagement, best and weakest posts, and how fast messages were answered. Use when the user pastes analytics, uploads a CSV export, or asks "how did my posts do?" or "what worked last week?". With the PersonaXpand connector it pulls fresh numbers itself. Uses only numbers the user or the networks provided, never estimates or industry averages. Not for planning the next week in detail (use week-planner).
 license: MIT
 ---
 

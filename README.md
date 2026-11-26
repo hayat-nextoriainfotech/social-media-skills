@@ -37,6 +37,14 @@ The plugin also includes the PersonaXpand connector (a remote MCP server at `htt
 
 Already use PersonaXpand on claude.ai? After you install the plugin, Claude Code uses the plugin's copy of the connector and hides the claude.ai one, so `/mcp` shows `personaxpand` as needing authentication. Sign in there once and your tools are back. (Checked with Claude Code 2.1.301.)
 
+### GitHub Copilot (CLI and VS Code)
+
+```
+copilot plugin install hayat-nextoriainfotech/social-media-skills
+```
+
+This installs the skills and the optional PersonaXpand connector (`https://personaxpand.com/mcp`). The first time a skill needs your real inbox or posts, Copilot opens a PersonaXpand sign-in in your browser. Skip it if you only want the skills on pasted text.
+
 ### claude.ai and Claude Desktop
 
 Upload any skill on its own:

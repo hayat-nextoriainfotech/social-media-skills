@@ -1,6 +1,7 @@
 ---
 name: sounds-human
-description: Rewrites captions, replies and short posts so they stop sounding machine-written: removes dash-heavy punctuation, filler words, stacked short fragments, fake candor, rule-of-three lists and empty hype, while keeping the meaning, the facts and the owner's voice. Use when the user says a draft "sounds like AI", "too robotic", "make it natural", or as a final pass after reply-in-my-voice or post-everywhere. Never adds facts, numbers, stories or claims that were not in the original. Not for changing what a post says, only how it says it.
+description: >-
+  Rewrites captions, replies and short posts so they stop sounding machine-written: removes dash-heavy punctuation, filler words, stacked short fragments, fake candor, rule-of-three lists and empty hype, while keeping the meaning, the facts and the owner's voice. Use when the user says a draft "sounds like AI", "too robotic", "make it natural", or as a final pass after reply-in-my-voice or post-everywhere. Never adds facts, numbers, stories or claims that were not in the original. Not for changing what a post says, only how it says it.
 license: MIT
 ---
 

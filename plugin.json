@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "personaxpand",
+  "version": "0.1.3",
+  "description": "Answer comments and DMs in your own voice, sort your inbox, plan and write posts, and get a weekly report. Skills work on pasted text with no account; the optional PersonaXpand connector (hosted MCP, OAuth) lets Copilot read your real inbox and post or reply only after your yes.",
+  "author": {
+    "name": "Mohammad Hayat",
+    "email": "info@personaxpand.com",
+    "url": "https://personaxpand.com"
+  },
+  "repository": "https://github.com/hayat-nextoriainfotech/social-media-skills",
+  "homepage": "https://personaxpand.com/features/ai-assistants",
+  "license": "MIT",
+  "keywords": ["personaxpand", "social-media", "comment-replies", "inbox", "auto-reply", "scheduling", "instagram", "linkedin", "threads", "bluesky", "mcp", "oauth"]
+}
