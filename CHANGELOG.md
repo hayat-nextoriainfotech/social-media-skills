@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 (2026-11-27)
+
+- Cursor support: `.cursor-plugin/plugin.json` with the logo, the skills folder and the PersonaXpand connector, for the Cursor Marketplace.
+
 ## 0.1.3 (2026-11-26)
 
 - GitHub Copilot support: root `plugin.json` and `mcp.json` in the Agent Plugins 1.0.0 format, so `copilot plugin install hayat-nextoriainfotech/social-media-skills` installs the skills and the connector.

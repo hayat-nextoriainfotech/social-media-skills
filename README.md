@@ -45,6 +45,12 @@ copilot plugin install hayat-nextoriainfotech/social-media-skills
 
 This installs the skills and the optional PersonaXpand connector (`https://personaxpand.com/mcp`). The first time a skill needs your real inbox or posts, Copilot opens a PersonaXpand sign-in in your browser. Skip it if you only want the skills on pasted text.
 
+### Cursor
+
+Install **PersonaXpand** from the [Cursor Marketplace](https://cursor.com/marketplace) (listing under review). To try it before then, copy this repo into `~/.cursor/plugins/local/personaxpand` and run **Developer: Reload Window**.
+
+This adds the skills and the optional PersonaXpand connector (`https://personaxpand.com/mcp`). The first time a skill needs your real inbox or posts, Cursor opens a PersonaXpand sign-in in your browser. Skip it if you only want the skills on pasted text.
+
 ### claude.ai and Claude Desktop
 
 Upload any skill on its own:
